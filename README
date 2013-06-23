@@ -1,0 +1,12 @@
+These scripts are meant to be small re-usable examples for various tasks with Boto.
+
+Resources:
+
+http://examples.oreilly.com/0636920020202/
+http://boto.readthedocs.org/en/latest/index.html
+Python and AWS Cookbook By Mitch Garnaat
+
+Other/Todo:
+
+Sample Code for displaying volume usage - https://github.com/baojie/PythonAWSCode/blob/master/metrics/metric_disk_usage
+Backup to AWS EBS via Rsync and Boto - http://www.takaitra.com/posts/384
