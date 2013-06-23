@@ -1,7 +1,7 @@
 These scripts are meant to be small re-usable examples for various tasks with Boto.  They were created for a presentation at the Python Web Development Meetup (http://www.meetup.com/Python-Web-Development/events/114056722/), but are also meant to be a starting point for creating your own scripts.
 
 10* through 32* are examples for managing and creating EC2 instances.
-40* through 43* are example for managing and creating EBS volumes.
+40* through 43* are examples for managing and creating EBS volumes.
 60* through 72* are examples for managing and creating Load Balancers and Auto Scaling Groups.
 80-sns.py is simple example of sending an email notification through SNS.
 
